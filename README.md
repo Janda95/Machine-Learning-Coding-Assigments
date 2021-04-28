@@ -2,7 +2,7 @@
 
 # Machine-Learning-Coding-Assigments
 
-### A collection of my programming assignment answers in python and personal certificate of completion. The following information is not my own and is a part of the github link below.
+### A collection of my programming assignment answers in python and personal certificate of completion. The following information in this README file is not my own and is a part of the github repository https://github.com/dibgerge/ml-coursera-python-assignments.
 
 ## [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 ## Python Programming Assignments
